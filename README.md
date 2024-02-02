@@ -28,7 +28,7 @@
 
 **Em desenvolvimento: Uma nova página está sendo criada para que você possa escolher a área de atuação do meu currículo antes de baixá-lo.**
 
-Contribua:
+**Contribua:**
 
 Este portfólio é um trabalho em constante evolução. Se você tiver sugestões de melhorias ou quiser me enviar seu feedback, por favor, sinta-se à vontade para usar o link das minhas redes sociais.
 
