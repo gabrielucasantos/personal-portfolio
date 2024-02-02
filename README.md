@@ -33,3 +33,10 @@
 Este portfólio é um trabalho em constante evolução. Se você tiver sugestões de melhorias ou quiser me enviar seu feedback, por favor, sinta-se à vontade para usar o link das minhas redes sociais.
 
 Obrigado pela sua visita!
+
+ATENÇÃO: 
+
+![check (4)](https://github.com/gabrielucasantos/personal-portfolio/assets/132011614/beefd0de-764b-4a12-9739-ab8678679c2f) = REALIZADO
+
+![remove](https://github.com/gabrielucasantos/personal-portfolio/assets/132011614/88f43711-5751-4d45-bbf2-ced4df3d02d8) = AINDA EM DESENVOLVIMENTO
+
