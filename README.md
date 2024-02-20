@@ -2,7 +2,8 @@
 ![FireShot Capture 021 - Meu Portfólio - Gabriel Lucas - gabrielucasantos github io](https://github.com/gabrielucasantos/personal-portfolio/assets/132011614/01cfb8d7-a0e2-4c49-9ab8-257e38cc2215)
 ![FireShot Capture 022 - Meu Portfólio - Gabriel Lucas - gabrielucasantos github io](https://github.com/gabrielucasantos/personal-portfolio/assets/132011614/05e64952-7452-4511-85d4-b453c8117609)
 
-**Seja bem-vindo ao meu portfólio online!** Este espaço foi criado para apresentar meus projetos, habilidades e experiências profissionais.
+**Seja bem-vindo ao meu portfólio online!** 
+Este espaço foi criado para apresentar meus projetos, habilidades e experiências profissionais.
 
 
 **Sobre mim:** Uma breve introdução sobre quem sou, minhas qualificações e objetivos profissionais.
